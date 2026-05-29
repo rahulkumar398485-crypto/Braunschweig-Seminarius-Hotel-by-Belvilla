@@ -1,0 +1,392 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-key="gallery_page_title">
+      Gallery | Braunschweig Seminarius Hotel by Belvilla
+    </title>
+
+    <meta
+      name="description"
+      data-key="gallery_meta_description"
+      content="Discover Braunschweig Seminarius Hotel by Belvilla through our gallery featuring rooms, wellness, gastronomy and event spaces."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="gallery.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Playfair+Display:wght@600&family=Lora:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="preloader">
+      <div class="loader"></div>
+    </div>
+
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-container">
+        <div class="logo">
+          <a href="index.html">
+            <img
+              src="images/belvilla-logo.jpeg"
+              alt="Braunschweig Seminarius Hotel by Belvilla"
+              data-key-alt="logo_alt"
+            />
+          </a>
+        </div>
+
+        <div class="nav-container">
+          <nav class="main-navigation" aria-label="Main Navigation">
+            <ul class="nav-menu">
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_about">About</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="about.html" data-key="nav_story">Our Story</a>
+                  </li>
+                  <li>
+                    <a href="contact.html" data-key="nav_contact">Contact Us</a>
+                  </li>
+                  <li>
+                   <a href="gastronomy.html" data-key="nav_gastronomy">Gastronomy</a>
+                 </li>
+                  <li>
+                    <a href="tourist-attractions.html" data-key="nav_tourist_attractions">Tourist Attractions</a>
+                  </li>
+                  <li>
+                    <a href="gallery.html" data-key="nav_gallery">Gallery</a>
+                  </li>
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_accommodation">
+                  Accommodation
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="rooms.html" data-key="nav_rooms">Rooms</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_wellness"> Wellness</a>
+                <ul class="dropdown-menu">
+                  <!-- <li><a href="pool-area.html" data-key="nav_pool">Pool Area</a></li> -->
+                  <li><a href="spa.html" data-key="nav_spa">Spa & Fitness</a></li>
+                  <!-- <li>
+                    <a href="indoor-playground.html" data-key="nav_playground">Indoor Playground</a>
+                  </li> -->
+                </ul>
+              </li>
+              <li>
+                <a href="excursions.html" data-key="nav_excursions">
+                  Excursions
+                </a>
+              </li>
+
+              <li>
+                <a href="events.html" data-key="nav_events">
+                  Meetings & Events
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="nav-book">
+          <a href="#" class="btn-book" data-key="book_now">Book Now</a>
+          <button id="langToggle" class="lang-btn">DE</button>
+        </div>
+
+        <div class="mobile-menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </header>
+
+
+    <!-- HERO -->
+    <section class="hero-section">
+      <img
+        src="images/Dining/dining5.jpg"
+        class="hero-image"
+        data-key-alt="alt_hotel"
+      />
+
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1 data-key="gallery_title">
+          Gallery
+        </h1>
+
+        <p data-key="gallery_desc">
+          Discover the spaces of Braunschweig Seminarius Hotel by Belvilla
+        </p>
+
+        <a href="#gallery" class="btn-primary" data-key="gallery_cta">
+          Explore Gallery
+        </a>
+      </div>
+    </section>
+
+    <!-- GALLERY -->
+    <section class="gallery-section" id="gallery">
+      <div class="section-label" data-key="gallery_label">
+        Moments at the Hotel
+      </div>
+
+      <h2 data-key="gallery_heading">
+        Explore Our Spaces
+      </h2>
+
+      <div class="gallery-filter">
+        <button
+          class="filter-btn active"
+          data-filter="all"
+          data-key="gallery_all"
+        >
+          All
+        </button>
+
+        <button class="filter-btn" data-filter="rooms" data-key="gallery_rooms">
+          Rooms
+        </button>
+
+        <button
+          class="filter-btn"
+          data-filter="wellness"
+          data-key="gallery_wellness"
+        >
+          Wellness
+        </button>
+
+        <button
+          class="filter-btn"
+          data-filter="restaurant"
+          data-key="gallery_restaurant"
+        >
+          Restaurant
+        </button>
+
+        <button
+          class="filter-btn"
+          data-filter="events"
+          data-key="gallery_events"
+        >
+          Events
+        </button>
+
+        <button
+          class="filter-btn"
+          data-filter="city"
+          data-key="gallery_city"
+        >
+          Braunschweig
+        </button>
+      </div>
+
+      <div class="gallery-container">
+        <div class="gallery-item" data-category="rooms" data-animate>
+          <img
+            src="images/Rooms/rooms17.jpg"
+            data-caption="Comfortable Standard Rooms"
+            data-key-caption="gallery_img1"
+          />
+        </div>
+
+        <div class="gallery-item" data-category="rooms" data-animate>
+          <img
+            src="images/Rooms/rooms11.jpg"
+            data-caption="Spacious Studio Rooms"
+            data-key-caption="gallery_img2"
+          />
+        </div>
+
+        <div class="gallery-item" data-category="wellness" data-animate>
+          <img
+            src="images/Events/spa2.jpg"
+            data-caption="Relaxing Sauna Area"
+            data-key-caption="gallery_img3"
+          />
+        </div>
+
+        <div class="gallery-item" data-category="restaurant" data-animate>
+          <img
+            src="images/Dining/dining10.jpg"
+            data-caption="Seasonal Dining Experience"
+            data-key-caption="gallery_img4"
+          />
+        </div>
+
+        <div class="gallery-item" data-category="events" data-animate>
+          <img
+            src="images/Dining/dining8.jpg"
+            data-caption="Modern Conference Spaces"
+            data-key-caption="gallery_img5"
+          />
+        </div>
+
+        <div class="gallery-item" data-category="city" data-animate>
+          <img
+            src="images/tourist-attraction/Braunschweig Cathedral1.jpg"
+            data-caption="Historic Braunschweig Cathedral"
+            data-key-caption="gallery_img6"
+          />
+        </div>
+
+        <div class="gallery-item" data-category="city" data-animate>
+          <img
+            src="images/tourist-attraction/Bürgerpark1.jpg"
+            data-caption="Dankwarderode Castle"
+            data-key-caption="gallery_img7"
+          />
+        </div>
+
+        <div class="gallery-item" data-category="wellness" data-animate>
+          <img
+            src="images/Dining/spa3.jpg"
+            data-caption="Fitness & Wellness Facilities"
+            data-key-caption="gallery_img8"
+          />
+        </div>
+      </div>
+
+      <!-- LIGHTBOX -->
+      <div class="lightbox" id="lightbox">
+        <div class="lightbox-content">
+          <span class="lightbox-close">&times;</span>
+
+          <img id="lightboxImage" />
+
+          <p id="lightboxCaption"></p>
+
+          <button class="lightbox-prev">‹</button>
+          <button class="lightbox-next">›</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+      <div class="cta-container">
+        <h2 data-key="gallery_cta_title">
+          Experience Braunschweig Seminarius Hotel
+        </h2>
+
+        <p data-key="gallery_cta_desc">
+          Plan your stay and discover comfort, wellness and culture in
+          Braunschweig.
+        </p>
+
+        <p>
+          <a href="mailto:reception.braunschweig@hotelsbelvilla.com"
+              >reception.braunschweig@hotelsbelvilla.com</a>
+          |
+          <a href="tel:+4953072090">
+            +49 5307 2090
+          </a>
+        </p>
+
+        <a href="contact.html" class="btn-primary" data-key="hero_cta">
+          Book Your Stay
+        </a>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="contact.html" class="footer-button" data-key="contact_us">
+            Contact Us
+          </a>
+
+          <address>
+            Braunschweig Seminarius Hotel by Belvilla<br />
+            Hauptstraße 48 B<br />
+            38110 Braunschweig, Germany<br />
+            <a href="tel:+4953072090">+49 5307 2090</a><br />
+            <a href="mailto:reception.braunschweig@hotelsbelvilla.com"
+              >reception.braunschweig@hotelsbelvilla.com</a
+            ><br />
+            <a href="mailto:reservations.braunschweig@hotelsbelvilla.com"
+              >reservations.braunschweig@hotelsbelvilla.com</a
+            ><br />
+          </address>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-key="quick_links">Quick Links</h4>
+
+          <ul>
+            <li>
+              <a href="rooms.html" data-key="footer_rooms">Rooms</a>
+            </li>
+
+            <li>
+              <a href="spa.html" data-key="footer_wellness">
+                Wellness
+              </a>
+            </li>
+
+            <li>
+              <a href="gastronomy.html" data-key="footer_gastro">
+                Gastronomy
+              </a>
+            </li>
+
+            <li>
+              <a href="events.html" data-key="footer_events">
+                Meetings & Events
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="footer-column newsletter">
+          <h4 data-key="newsletter">Newsletter</h4>
+
+          <form class="newsletter-form">
+            <input
+              type="email"
+              name="email"
+              placeholder="Your email address"
+              required
+              aria-label="Your Email"
+              data-key-placeholder="newsletter_placeholder"
+            />
+
+            <button
+              class="btn"
+              type="submit"
+              aria-label="Subscribe to Newsletter"
+              data-key="subscribe"
+            >
+              Subscribe
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p data-key="footer_copy">
+          © 2026 Braunschweig Seminarius Hotel by Belvilla. 
+        </p>
+      </div>
+    </footer>
+    <script src="script.js"></script>
+    <script src="gallery.js"></script>
+  </body>
+</html>

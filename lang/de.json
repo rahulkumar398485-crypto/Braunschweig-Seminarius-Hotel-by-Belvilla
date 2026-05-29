@@ -1,0 +1,430 @@
+{
+  "page_title": "Braunschweig Seminarius Hotel by Belvilla",
+  "meta_description": "Das Braunschweig Seminarius Hotel by Belvilla bietet komfortable Unterkünfte, Wellness, Gastronomie sowie Tagungs- und Veranstaltungsräume in Braunschweig.",
+
+  "logo_alt": "Braunschweig Seminarius Hotel by Belvilla",
+
+  "nav_about": "Über uns",
+  "nav_story": "Unsere Geschichte",
+  "nav_contact": "Kontakt",
+  "nav_gastronomy": "Gastronomie",
+  "nav_tourist_attractions": "Sehenswürdigkeiten",
+  "nav_gallery": "Galerie",
+  "nav_accommodation": "Unterkunft",
+  "nav_rooms": "Zimmer",
+  "nav_wellness": "Wellness",
+  "nav_spa": "Spa & Fitness",
+  "nav_excursions": "Ausflüge",
+  "nav_events": "Tagungen & Veranstaltungen",
+
+  "book_now": "Jetzt buchen",
+
+  "alt_hotel": "Braunschweig Seminarius Hotel",
+  "alt_rooms": "Komfortzimmer",
+  "alt_wellness": "Wellnessbereich",
+
+  "hero_title": "Braunschweig Seminarius Hotel by Belvilla",
+  "hero_subtitle": "Komfortable Aufenthalte, Wellness und Veranstaltungen in Braunschweig.",
+  "hero_cta": "Aufenthalt buchen",
+
+  "hero_slide2_title": "Komfortable Zimmer & Studios",
+  "hero_slide2_desc": "Moderne Unterkünfte für Geschäfts- und Freizeitreisende.",
+  "hero_slide2_cta": "Zimmer entdecken",
+
+  "hero_slide3_title": "Entspannung & Wellness",
+  "hero_slide3_desc": "Genießen Sie Sauna, Ruhebereich und Fitnessmöglichkeiten.",
+  "hero_slide3_cta": "Wellness entdecken",
+
+  "quote_text": "Ein einladender Aufenthalt für Geschäftsreisende, Familien und Wochenendgäste.",
+
+  "section_highlights": "Highlights",
+
+  "highlight_rooms": "Zimmer",
+  "highlight_gastro": "Gastronomie",
+  "highlight_wellness": "Wellness",
+  "highlight_events": "Tagungen & Veranstaltungen",
+  "highlight_attractions": "Sehenswürdigkeiten",
+  "highlight_about": "Über uns",
+
+  "section_discover": "Entdecken",
+  "discover_title": "Komfortabler Aufenthalt in Braunschweig",
+  "discover_desc": "Das Braunschweig Seminarius Hotel by Belvilla befindet sich in ruhiger und verkehrsgünstiger Lage nahe der Autobahn A2 und dem Flughafen Braunschweig-Wolfsburg. Ideal für Geschäftsreisende, Konferenzen, Familienfeiern und entspannte Städtereisen.",
+  "learn_more": "Mehr erfahren",
+
+  "section_accommodation": "Unterkunft",
+  "accommodation_title": "Moderne Zimmer für jeden Aufenthalt",
+  "accommodation_desc": "Wählen Sie zwischen Standardzimmern, Komfortzimmern und geräumigen Studios. Jede Zimmerkategorie verbindet Komfort, Funktionalität und moderne Ausstattung für produktive Arbeitstage und erholsame Nächte.",
+  "view_accommodation": "Unterkünfte ansehen",
+
+  "section_wellness": "Wellness",
+  "wellness_title": "Entspannen & Auftanken",
+  "wellness_desc": "Entspannen Sie in der Sauna und im Ruhebereich oder bleiben Sie aktiv auf nahegelegenen Laufstrecken und im Fitnesscenter neben dem Hotel.",
+  "explore_wellness": "Wellness entdecken",
+
+  "section_explore": "Braunschweig entdecken",
+  "explore_cathedral": "Braunschweiger Dom",
+  "explore_castle": "Burg Dankwarderode",
+  "explore_autostadt": "Autostadt Wolfsburg",
+  "explore_riddagshausen": "Naturschutzgebiet Riddagshausen",
+
+  "contact_us": "Kontakt",
+  "quick_links": "Schnellzugriff",
+
+  "footer_rooms": "Zimmer",
+  "footer_wellness": "Wellness",
+  "footer_gastro": "Gastronomie",
+  "footer_events": "Tagungen & Veranstaltungen",
+
+  "newsletter": "Newsletter",
+  "newsletter_placeholder": "Ihre E-Mail-Adresse",
+  "subscribe": "Abonnieren",
+
+  "footer_copy": "© 2026 Braunschweig Seminarius Hotel by Belvilla.",
+  
+  "about_page_title": "Über das Braunschweig Seminarius Hotel by Belvilla",
+  "about_meta_description": "Entdecken Sie das Braunschweig Seminarius Hotel by Belvilla – ein komfortables Hotel in Braunschweig mit Unterkunft, Wellness, Gastronomie und Veranstaltungsräumen.",
+
+  "about_hero_title": "Braunschweig Seminarius Hotel by Belvilla",
+  "about_hero_desc": "Komfortable Aufenthalte für Geschäftsreisende, Familien und Wochenendgäste.",
+
+  "about_section_story": "Unsere Geschichte",
+
+  "about_nature_title": "Komfortable & Verkehrsgünstige Lage",
+  "about_nature_desc": "Das Braunschweig Seminarius Hotel by Belvilla befindet sich in ruhiger und gut erreichbarer Lage nahe der Autobahn A2 und nur wenige Minuten vom Flughafen Braunschweig-Wolfsburg entfernt. Das Hotel bietet eine einladende Atmosphäre für Geschäfts- und Freizeitreisende.",
+
+  "about_guest_title": "Ein Aufenthalt für Jeden Gast",
+  "about_guest_desc": "Unser Hotel bietet Standardzimmer, Komfortzimmer und geräumige Studios mit moderner Ausstattung, komfortabler Einrichtung und durchdachten Details. Ob für Konferenzen, Familienfeiern oder entspannte Wochenenden – Gäste genießen während ihres gesamten Aufenthalts Komfort und Bequemlichkeit.",
+
+  "about_location_label": "Lage",
+  "about_location_title": "Braunschweig Entdecken",
+  "about_location_desc": "Braunschweig verbindet Geschichte, Kultur und grüne Umgebung und ist damit ein ideales Reiseziel für Städtereisen und Geschäftsreisen.",
+
+  "about_nearby": "Sehenswürdigkeiten in der Nähe:",
+  "about_attr1": "Braunschweiger Dom",
+  "about_attr2": "Burg Dankwarderode",
+  "about_attr3": "Bürgerpark",
+  "about_attr4": "Naturschutzgebiet Riddagshausen",
+  "about_attr5": "Autostadt Wolfsburg",
+
+  "about_why": "Warum Gäste Unsere Lage Schätzen",
+  "about_why1": "Ruhige und gut erreichbare Umgebung",
+  "about_why2": "Nahe an Autobahn und Flughafen",
+  "about_why3": "Ideal für Geschäfts- und Freizeitreisen",
+  "about_why4": "Perfekter Ausgangspunkt für Ausflüge",
+
+  "about_values_label": "Was Wir Bieten",
+  "about_values_title": "Komfort, Wellness & Veranstaltungen",
+
+  "about_val1_title": "Komfortable Unterkunft",
+  "about_val1_desc": "Moderne Standardzimmer, Komfortzimmer und Studios für Entspannung und produktive Aufenthalte.",
+
+  "about_val2_title": "Wellness & Fitness",
+  "about_val2_desc": "Entspannen Sie im Saunabereich oder bleiben Sie aktiv mit nahegelegenen Laufstrecken und Fitnessmöglichkeiten.",
+
+  "about_val3_title": "Gastronomie",
+  "about_val3_desc": "Genießen Sie Frühstücksangebote, saisonale Gerichte im Restaurant und entspannte Abende an der Hotelbar.",
+
+  "about_val4_title": "Konferenzen & Feiern",
+  "about_val4_desc": "Stilvolle Veranstaltungsorte und moderne Eventflächen für Hochzeiten, Familienfeiern, Workshops und Meetings.",
+  
+  "contact_page_title": "Kontakt Braunschweig Seminarius Hotel by Belvilla",
+  "contact_meta_description": "Kontaktieren Sie das Braunschweig Seminarius Hotel by Belvilla für Unterkunft, Wellnessaufenthalte, Tagungen, Hochzeiten und Konferenzen in Braunschweig.",
+
+  "contact_title": "Kontakt",
+  "contact_desc": "Planen Sie Ihren Aufenthalt im Braunschweig Seminarius Hotel by Belvilla",
+  "contact_cta": "Kontakt aufnehmen",
+
+  "contact_form_label": "Kontakt aufnehmen",
+
+  "contact_info_label": "Kontaktinformationen",
+  "contact_reach": "Erreichen Sie uns",
+  "contact_hotel_name": "Braunschweig Seminarius Hotel by Belvilla",
+
+  "contact_getting_here": "Anreise",
+  "contact_travel": "Anreise zum Braunschweig Seminarius Hotel by Belvilla",
+
+  "contact_train": "Mit dem Zug",
+  "contact_train_desc": "Der Braunschweiger Hauptbahnhof bietet bequeme Regional- und Fernverkehrsverbindungen.",
+
+  "contact_car": "Mit dem Auto",
+  "contact_car_desc": "Das Hotel ist über die Autobahn A2 bequem erreichbar und ideal für Geschäfts- und Freizeitreisende.",
+
+  "contact_air": "Mit dem Flugzeug",
+  "contact_air_desc": "Der Flughafen Braunschweig-Wolfsburg befindet sich nur wenige Minuten vom Hotel entfernt.",
+
+  "gallery_page_title": "Galerie | Braunschweig Seminarius Hotel by Belvilla",
+  "gallery_meta_description": "Entdecken Sie das Braunschweig Seminarius Hotel by Belvilla in unserer Galerie mit Zimmern, Wellness-, Gastronomie- und Veranstaltungsbereichen.",
+
+  "gallery_title": "Galerie",
+  "gallery_desc": "Entdecken Sie die Bereiche des Braunschweig Seminarius Hotel by Belvilla",
+  "gallery_cta": "Galerie entdecken",
+
+  "gallery_label": "Momente im Hotel",
+  "gallery_heading": "Unsere Bereiche entdecken",
+
+  "gallery_all": "Alle",
+  "gallery_rooms": "Zimmer",
+  "gallery_wellness": "Wellness",
+  "gallery_restaurant": "Restaurant",
+  "gallery_events": "Veranstaltungen",
+  "gallery_city": "Braunschweig",
+
+  "gallery_img1": "Komfortable Standardzimmer",
+  "gallery_img2": "Geräumige Studios",
+  "gallery_img3": "Entspannender Saunabereich",
+  "gallery_img4": "Saisonale Genussmomente",
+  "gallery_img5": "Moderne Konferenzräume",
+  "gallery_img6": "Historischer Braunschweiger Dom",
+  "gallery_img7": "Burg Dankwarderode",
+  "gallery_img8": "Fitness- und Wellnessbereich",
+
+  "gallery_cta_title": "Erleben Sie das Braunschweig Seminarius Hotel",
+  "gallery_cta_desc": "Planen Sie Ihren Aufenthalt und entdecken Sie Komfort, Wellness und Kultur in Braunschweig.",
+
+  "gastro_page_title": "Gastronomie | Braunschweig Seminarius Hotel by Belvilla",
+  "gastro_meta_description": "Genießen Sie Frühstück, saisonale Küche und entspannte Abende im Restaurant und an der Bar des Braunschweig Seminarius Hotel by Belvilla.",
+
+  "gastro_title": "Gastronomie",
+  "gastro_desc": "Kulinarische Erlebnisse im Braunschweig Seminarius Hotel by Belvilla",
+  "gastro_cta": "Gastronomie entdecken",
+
+  "gastro_overview_title": "Frische & Saisonale Küche",
+  "gastro_overview_desc": "Beginnen Sie Ihren Tag mit einem abwechslungsreichen Frühstücksbuffet und genießen Sie saisonale Gerichte in unserem Restaurant.",
+
+  "gastro_rest1_title": "Frühstücksbuffet",
+  "gastro_rest1_desc": "Frische Brötchen, herzhafte Aufstriche sowie warme und kalte Speisen in angenehmer Atmosphäre.",
+  "gastro_rest1_time": "Montag bis Freitag: 06:00 – 10:00 Uhr",
+
+  "gastro_rest2_title": "Wochenendfrühstück",
+  "gastro_rest2_desc": "Genießen Sie an Wochenenden und Feiertagen ein verlängertes Frühstück mit frischen saisonalen Spezialitäten.",
+  "gastro_rest2_time": "Samstag, Sonntag & Feiertage: 06:30 – 10:30 Uhr",
+
+  "gastro_rest3_title": "Restaurant",
+  "gastro_rest3_desc": "Saisonale Gerichte in entspannter Atmosphäre für Geschäftsessen, Paare und Familien.",
+  "gastro_rest3_time": "Montag bis Samstag: 18:00 – 21:00 Uhr",
+
+  "gastro_rest4_title": "Hotelbar",
+  "gastro_rest4_desc": "Genießen Sie Getränke, Cocktails und entspannte Abende nach einem erfolgreichen Tag.",
+  "gastro_rest4_time": "Täglich während der Restaurantöffnungszeiten",
+
+  "gastro_cta_title": "Reservieren Sie Ihr Genusserlebnis",
+  "gastro_cta_desc": "Genießen Sie saisonale Küche und herzliche Gastfreundschaft im Braunschweig Seminarius Hotel by Belvilla.",
+
+  "ta_page_title": "Braunschweig entdecken | Braunschweig Seminarius Hotel by Belvilla",
+  "ta_meta_description": "Entdecken Sie die kulturellen und natürlichen Highlights rund um Braunschweig.",
+
+  "ta_title": "Braunschweig entdecken",
+  "ta_desc": "Entdecken Sie Kultur, Natur und Geschichte der Löwenstadt",
+  "ta_cta": "Sehenswürdigkeiten entdecken",
+
+  "ta_label": "Stadtabenteuer",
+  "ta_overview_title": "Das Beste von Braunschweig erleben",
+  "ta_overview_desc": "Braunschweig verbindet historische Sehenswürdigkeiten, grüne Parks und kulturelle Highlights.",
+
+  "ta_top_label": "Top Sehenswürdigkeiten",
+  "ta_top_title": "Die Region entdecken",
+
+  "ta_attr1_title": "Braunschweiger Dom",
+  "ta_attr1_desc": "Eines der bedeutendsten Wahrzeichen der Stadt mit beeindruckender mittelalterlicher Architektur.",
+
+  "ta_attr2_title": "Burg Dankwarderode",
+  "ta_attr2_desc": "Eine rekonstruierte mittelalterliche Burg, die die Geschichte Braunschweigs lebendig werden lässt.",
+
+  "ta_attr3_title": "Autostadt Wolfsburg",
+  "ta_attr3_desc": "Ein modernes Erlebniszentrum mit Ausstellungen, Architektur und Attraktionen für die ganze Familie.",
+
+  "ta_attr4_title": "Naturschutzgebiet Riddagshausen",
+  "ta_attr4_desc": "Ein ruhiges Naturgebiet für Spaziergänge, Radtouren und Tierbeobachtungen.",
+
+  "ta_attr5_title": "Bürgerpark",
+  "ta_attr5_desc": "Ein schöner Stadtpark für Erholung, Sport und entspannte Stunden im Grünen.",
+
+  "ta_details": "Details",
+
+  "ta_cta_title": "Planen Sie Ihr Braunschweig-Abenteuer",
+  "ta_cta_desc": "Entdecken Sie Geschichte, Natur und Kultur während Ihres Aufenthalts im Braunschweig Seminarius Hotel by Belvilla.",
+
+  "ta_cathedral_modal": "Der Braunschweiger Dom zählt zu den bedeutendsten mittelalterlichen Kirchen Norddeutschlands.",
+  "ta_castle_modal": "Die Burg Dankwarderode erzählt die Geschichte Heinrichs des Löwen und Braunschweigs.",
+  "ta_autostadt_modal": "Die Autostadt Wolfsburg bietet Ausstellungen, Fahrzeugerlebnisse und Unterhaltung für die ganze Familie.",
+  "ta_riddagshausen_modal": "Das Naturschutzgebiet Riddagshausen begeistert mit Seen, Wanderwegen und vielfältiger Tierwelt.",
+  "ta_burgerpark_modal": "Der Bürgerpark ist eine grüne Oase mit Spazierwegen, Erholungsflächen und schöner Landschaft.",
+  
+  "rooms_page_title": "Zimmer | Braunschweig Seminarius Hotel by Belvilla",
+  "rooms_meta": "Komfortable Zimmer im Braunschweig Seminarius Hotel by Belvilla mit Standard-, Komfort- und Studiozimmern.",
+
+  "rooms_title": "Zimmer",
+  "rooms_desc": "Komfortable Aufenthalte mit moderner Ausstattung und entspannter Atmosphäre",
+  "rooms_cta": "Zimmer entdecken",
+
+  "rooms_label": "Unterkunft",
+  "rooms_heading": "Komfort & Bequemlichkeit",
+  "rooms_text": "Das Braunschweig Seminarius Hotel by Belvilla bietet einladende Unterkünfte für Geschäfts- und Freizeitreisende.",
+
+  "room_types": "Zimmertypen",
+  "choose_room": "Wählen Sie Ihr Zimmer",
+
+  "room_standard": "Standardzimmer",
+  "room_standard_desc": "Komfortables Zimmer mit Doppel- oder Einzelbetten, TV, Schreibtisch sowie Kaffee- und Teestation.",
+
+  "room_comfort": "Komfortzimmer",
+  "room_comfort_desc": "Stilvolles Zimmer mit moderner Einrichtung und zusätzlichem Komfort.",
+
+  "room_studio": "Studiozimmer",
+  "room_studio_desc": "Geräumiges Studio auf zwei Ebenen mit Wohnbereich und modernem Bad.",
+
+  "room_single": "Superior Einzelzimmer",
+  "room_single_desc": "Ideal für Alleinreisende mit gemütlichem Einzelbett und Arbeitsplatz.",
+
+  "book_room": "Jetzt buchen",
+  
+  "hotel_standard_title": "Standardzimmer",
+  "hotel_standard_modal": "Komfortables Zimmer mit Doppel- oder Einzelbetten, TV, Schreibtisch, Kaffee- und Teestation sowie Badezimmer mit Dusche oder Badewanne.",
+
+  "hotel_comfort_title": "Komfortzimmer",
+  "hotel_comfort_modal": "Modernes Zimmer mit stilvoller Einrichtung, entspannter Atmosphäre und zusätzlichem Komfort für Geschäfts- und Freizeitreisende.",
+
+  "hotel_studio_title": "Studiozimmer",
+  "hotel_studio_modal": "Geräumiges Studio auf zwei Ebenen mit Wohnbereich, begehbarem Kleiderschrank, Einzelbetten, Arbeitsplatz und modernem Badezimmer.",
+
+  "hotel_single_title": "Superior Einzelzimmer",
+  "hotel_single_modal": "Ideal für Alleinreisende mit gemütlichem Einzelbett, kostenfreiem WLAN, TV, Kaffeestation und funktionalem Arbeitsplatz.",
+
+
+  "cta_title": "Buchen Sie Ihr Zimmer",
+  "cta_desc": "Genießen Sie Komfort und Entspannung im Braunschweig Seminarius Hotel by Belvilla.",
+
+  "spa_hero_title": "Spa & Fitness",
+  "spa_hero_text": "Entspannen, neue Energie tanken und ruhige Wohlfühlmomente in Braunschweig genießen",
+  "spa_hero_btn": "Wellness entdecken",
+
+  "spa_overview_label": "Wellness",
+  "spa_overview_title": "Erholung für Körper & Geist",
+  "spa_overview_text": "In unserem Wellnessbereich können Sie den Alltag hinter sich lassen und neue Energie tanken. Genießen Sie entspannte Stunden in unserer Sauna und im Ruhebereich. Direkt am Kanal in der Nähe des Hotels finden Sie zudem schöne Laufstrecken für Ihr Outdoor-Training. Gäste können außerdem das benachbarte Fitnessstudio gegen eine Gebühr von nur 5,00 € nutzen.",
+
+  "spa_facilities_label": "Wellness-Einrichtungen",
+  "spa_facilities_title": "Entspannen & Auftanken",
+
+  "spa_sauna_title": "Saunabereich",
+  "spa_sauna_text": "Entspannen Sie in unserem ruhigen Saunabereich nach einem produktiven Tag oder einem spannenden Ausflug in die Stadt.",
+
+  "spa_relax_title": "Ruhelounge",
+  "spa_relax_text": "Genießen Sie eine entspannte Atmosphäre und ruhige Momente in unseren komfortablen Erholungsbereichen.",
+
+  "spa_running_title": "Laufstrecken",
+  "spa_running_text": "Entdecken Sie die schönen Lauf- und Spazierwege entlang des nahegelegenen Kanals für Ihr Outdoor-Training.",
+
+  "spa_hours_label": "Öffnungszeiten",
+  "spa_hours_title": "Wellness- & Fitnesszeiten",
+
+  "spa_sauna_hours": "Sauna\nMontag bis Sonntag von 17:00 bis 22:00 Uhr",
+
+  "spa_fitness_hours": "Fitness\nMontag bis Donnerstag von 07:00 bis 20:00 Uhr\nFreitag von 07:00 bis 19:00 Uhr\nSamstag und Sonntag von 09:00 bis 14:00 Uhr",
+
+  "spa_cta_title": "Genießen Sie Ihren Wellnessaufenthalt",
+  "spa_cta_text": "Erleben Sie Komfort, Entspannung und Fitness im Braunschweig Seminarius Hotel by Belvilla.",
+  "spa_cta_btn": "Kontakt aufnehmen",
+
+
+  "excursions_meta_title": "Ausflüge | Braunschweig Seminarius Hotel by Belvilla",
+  "excursions_meta_description": "Entdecken Sie Braunschweig, Wolfsburg und kulturelle Sehenswürdigkeiten in der Nähe des Braunschweig Seminarius Hotel by Belvilla.",
+
+  "excursions_hero_title": "Ausflüge",
+  "excursions_hero_text": "Entdecken Sie die kulturellen Highlights und die natürliche Schönheit rund um Braunschweig",
+  "excursions_hero_btn": "Attraktionen entdecken",
+
+  "excursions_overview_label": "Braunschweig entdecken",
+  "excursions_overview_title": "Kultur, Natur & Neue Erlebnisse",
+  "excursions_overview_text": "Braunschweig ist das perfekte Ziel für einen abwechslungsreichen Kurzurlaub. Die Löwenstadt begeistert mit ihrer historischen Altstadt, dem Dom, der Burg Dankwarderode und gemütlichen Cafés. Naturliebhaber genießen Spaziergänge im Bürgerpark oder im idyllischen Riddagshausen. Die Umgebung bietet zudem spannende Ausflugsziele wie die Autostadt Wolfsburg, Museen, Rad- und Wanderwege sowie zahlreiche kulturelle Highlights.",
+
+  "excursions_activities_label": "Sehenswürdigkeiten",
+  "excursions_activities_title": "Die Region entdecken",
+
+  "excursions_card1_title": "Historische Altstadt",
+  "excursions_card1_text": "Entdecken Sie Braunschweigs charmante Altstadt mit beeindruckender Architektur, gemütlichen Cafés und historischen Sehenswürdigkeiten.",
+
+  "excursions_card2_title": "Burg Dankwarderode",
+  "excursions_card2_text": "Besuchen Sie die berühmte Burg Dankwarderode und entdecken Sie die Kulturgeschichte Braunschweigs.",
+
+  "excursions_card3_title": "Autostadt Wolfsburg",
+  "excursions_card3_text": "Genießen Sie einen spannenden Tagesausflug in die Autostadt Wolfsburg mit Ausstellungen, Museen und automobilen Erlebnissen.",
+
+  "excursions_card4_title": "Natur & Outdoor-Aktivitäten",
+  "excursions_card4_text": "Erkunden Sie Radwege, Wanderpfade und entspannte Spaziergänge im Bürgerpark und in Riddagshausen.",
+
+  "excursions_outdoors_label": "Erlebnisse",
+
+  "excursions_culture_title": "Kulturelle Highlights",
+  "excursions_culture_text": "Entdecken Sie Museen, historische Kirchen, Burgen und lokale Sehenswürdigkeiten, die das reiche kulturelle Erbe Braunschweigs präsentieren.",
+
+  "excursions_nature_title": "Natur & Erholung",
+  "excursions_nature_text": "Genießen Sie Radfahren, Wandern und entspannte Outdoor-Aktivitäten in der reizvollen Naturlandschaft rund um das Hotel.",
+
+  "excursions_cta_title": "Braunschweig entdecken",
+  "excursions_cta_text": "Erleben Sie Kultur, Geschichte und Natur während Ihres Aufenthalts im Braunschweig Seminarius Hotel by Belvilla.",
+  "excursions_cta_btn": "Aufenthalt planen",
+
+  
+  "events_meta_title": "Tagungen & Veranstaltungen | Braunschweig Seminarius Hotel by Belvilla",
+  "events_meta_description": "Veranstalten Sie Konferenzen, Meetings und Familienfeiern im Braunschweig Seminarius Hotel by Belvilla.",
+
+  "events_hero_title": "Tagungen & Veranstaltungen",
+  "events_hero_text": "Der ideale Veranstaltungsort für Konferenzen, Meetings und Feiern in Braunschweig",
+  "events_hero_btn": "Räume entdecken",
+
+  "events_overview_title": "Der Professionelle Rahmen für Jeden Anlass",
+  "events_overview_text1": "Das Braunschweig Seminarius Hotel by Belvilla bietet den perfekten Rahmen für erfolgreiche Konferenzen, Workshops, Meetings und private Feiern. Unsere modernen Veranstaltungsräume schaffen eine ruhige und professionelle Atmosphäre für produktive Veranstaltungen und unvergessliche Momente.",
+  "events_overview_text2": "Ob Geschäftsseminar, Teambuilding-Event, Hochzeit oder Familienfeier – unser erfahrenes Team und unsere flexiblen Veranstaltungsräume sorgen für einen reibungslosen Ablauf Ihrer Veranstaltung.",
+
+  "events_spaces_label": "Veranstaltungsräume",
+
+  "events_space1_title": "Konferenzräume",
+  "events_space1_text": "Unsere modernen Konferenzräume bieten Platz für bis zu 60 Personen und können flexibel an Ihre Veranstaltungsanforderungen angepasst werden.",
+
+  "events_space2_title": "Hochzeiten & Familienfeiern",
+  "events_space2_text": "Feiern Sie Hochzeiten, Geburtstage und besondere Anlässe in stilvollem Ambiente mit individueller Planung und aufmerksamem Service.",
+
+  "events_space3_title": "Business Meetings",
+  "events_space3_text": "Professionelle Technik, komfortable Bestuhlung und eine produktive Arbeitsatmosphäre machen unser Hotel ideal für Meetings und Workshops.",
+
+  "events_facilities_label": "Ausstattung",
+
+  "events_amenity1_title": "Professionelle Technik",
+  "events_amenity1_text": "Voll ausgestattete Veranstaltungsräume mit moderner Konferenz- und Präsentationstechnik.",
+
+  "events_amenity2_title": "Flexible Raumgestaltung",
+  "events_amenity2_text": "Die Veranstaltungsräume können individuell für Seminare, Konferenzen und Feiern gestaltet werden.",
+
+  "events_amenity3_title": "Catering-Service",
+  "events_amenity3_text": "Genießen Sie Frühstück, Restaurantangebote und individuelle Catering-Lösungen für Ihre Veranstaltung.",
+
+  "events_amenity4_title": "Komfortable Unterkünfte",
+  "events_amenity4_text": "Ihre Gäste können nach erfolgreichen Meetings und Feiern in unseren modernen Zimmern entspannen.",
+
+  "events_capacity_label": "Kapazitäten",
+  "events_table_room": "Raum",
+  "events_table_capacity": "Kapazität",
+  "events_table_use": "Ideal Für",
+
+  "events_capacity_note": "Unser Veranstaltungsteam unterstützt Sie gerne bei der individuellen Gestaltung Ihrer Veranstaltung.",
+
+  "events_packages_label": "Veranstaltungsservices",
+
+  "events_package1_title": "Konferenzen & Meetings",
+  "events_package1_item1": "Moderne Konferenztechnik",
+  "events_package1_item2": "Flexible Bestuhlungsvarianten",
+  "events_package1_item3": "Persönliche Veranstaltungsbetreuung",
+  "events_package1_item4": "Ruhige Arbeitsatmosphäre",
+
+  "events_package2_title": "Hochzeiten & Feiern",
+  "events_package2_item1": "Elegante Veranstaltungsräume",
+  "events_package2_item2": "Flexible Planungsmöglichkeiten",
+  "events_package2_item3": "Persönlicher Service",
+  "events_package2_item4": "Unvergessliche Veranstaltungserlebnisse",
+
+  "events_cta_title": "Planen Sie Ihre Veranstaltung",
+  "events_cta_text": "Unser Team unterstützt Sie bei der Planung einer erfolgreichen Konferenz, eines Meetings oder einer unvergesslichen Feier in Braunschweig.",
+  "events_cta_btn": "Kontakt aufnehmen"
+
+
+}

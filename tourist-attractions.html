@@ -1,0 +1,409 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-key="ta_page_title">
+      Explore Braunschweig | Braunschweig Seminarius Hotel by Belvilla
+    </title>
+
+    <meta
+      name="description"
+      data-key="ta_meta_description"
+      content="Discover the cultural and natural highlights around Braunschweig Seminarius Hotel by Belvilla including historic landmarks, parks and nearby attractions."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="tourist-attractions.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Playfair+Display:wght@600&family=Lora:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <div class="preloader">
+      <div class="loader"></div>
+    </div>
+
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-container">
+        <div class="logo">
+          <a href="index.html">
+            <img
+              src="images/belvilla-logo.jpeg"
+              alt="Braunschweig Seminarius Hotel by Belvilla"
+              data-key-alt="logo_alt"
+            />
+          </a>
+        </div>
+
+        <div class="nav-container">
+          <nav class="main-navigation" aria-label="Main Navigation">
+            <ul class="nav-menu">
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_about">About</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="about.html" data-key="nav_story">Our Story</a>
+                  </li>
+                  <li>
+                    <a href="contact.html" data-key="nav_contact">Contact Us</a>
+                  </li>
+                  <li>
+                   <a href="gastronomy.html" data-key="nav_gastronomy">Gastronomy</a>
+                 </li>
+                  <li>
+                    <a href="tourist-attractions.html" data-key="nav_tourist_attractions">Tourist Attractions</a>
+                  </li>
+                  <li>
+                    <a href="gallery.html" data-key="nav_gallery">Gallery</a>
+                  </li>
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_accommodation">
+                  Accommodation
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="rooms.html" data-key="nav_rooms">Rooms</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_wellness"> Wellness</a>
+                <ul class="dropdown-menu">
+                  <!-- <li><a href="pool-area.html" data-key="nav_pool">Pool Area</a></li> -->
+                  <li><a href="spa.html" data-key="nav_spa">Spa & Fitness</a></li>
+                  <!-- <li>
+                    <a href="indoor-playground.html" data-key="nav_playground">Indoor Playground</a>
+                  </li> -->
+                </ul>
+              </li>
+              <li>
+                <a href="excursions.html" data-key="nav_excursions">
+                  Excursions
+                </a>
+              </li>
+
+              <li>
+                <a href="events.html" data-key="nav_events">
+                  Meetings & Events
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="nav-book">
+          <a href="#" class="btn-book" data-key="book_now">Book Now</a>
+          <button id="langToggle" class="lang-btn">DE</button>
+        </div>
+
+        <div class="mobile-menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </header>
+
+
+    <!-- HERO -->
+    <section
+      class="hero-section"
+      style="background-image: url('images/tourist-attraction/Dankwarderode\ Castle1.jpg');"
+    >
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1 data-key="ta_title">
+          Explore Braunschweig
+        </h1>
+
+        <p data-key="ta_desc">
+          Discover culture, nature and history around the city of lions
+        </p>
+
+        <a href="#attractions" class="btn-primary" data-key="ta_cta">
+          Discover Attractions
+        </a>
+      </div>
+    </section>
+
+    <!-- OVERVIEW -->
+    <section class="overview-section">
+      <div class="section-label" data-key="ta_label">
+        City Adventures
+      </div>
+
+      <div class="overview-container">
+        <div class="overview-divider"></div>
+
+        <h2 data-key="ta_overview_title">
+          Experience the Best of Braunschweig
+        </h2>
+
+        <p data-key="ta_overview_desc">
+          Braunschweig combines historic landmarks, charming cafés, green parks
+          and cultural highlights. Guests can explore cathedrals, castles,
+          museums and nearby nature areas while enjoying a perfect mix of city
+          life and relaxation.
+        </p>
+
+        <div class="overview-divider"></div>
+      </div>
+    </section>
+
+    <!-- ATTRACTIONS -->
+    <section class="attractions-section" id="attractions">
+      <div class="section-label" data-key="ta_top_label">
+        Top Attractions
+      </div>
+
+      <h2 data-key="ta_top_title">
+        Discover the Region
+      </h2>
+
+      <div class="attractions-container">
+        <!-- CARD 1 -->
+        <div class="attraction-card" data-animate>
+          <img src="images/tourist-attraction/Braunschweig Cathedral.jpg" alt="Braunschweig Cathedral" />
+
+          <h3 data-key="ta_attr1_title">
+            Braunschweig Cathedral
+          </h3>
+
+          <p data-key="ta_attr1_desc">
+            One of the city's most iconic landmarks with impressive medieval
+            architecture and historical significance.
+          </p>
+
+          <button
+            class="details-btn"
+            data-attraction="cathedral"
+            data-key="ta_details"
+          >
+            Details
+          </button>
+        </div>
+
+        <!-- CARD 2 -->
+        <div class="attraction-card" data-animate>
+          <img src="images/tourist-attraction/Braunschweig Cathedral1.jpg" alt="Dankwarderode Castle" />
+
+          <h3 data-key="ta_attr2_title">
+            Dankwarderode Castle
+          </h3>
+
+          <p data-key="ta_attr2_desc">
+            A reconstructed medieval castle showcasing the rich history of
+            Braunschweig and the region.
+          </p>
+
+          <button
+            class="details-btn"
+            data-attraction="castle"
+            data-key="ta_details"
+          >
+            Details
+          </button>
+        </div>
+
+        <!-- CARD 3 -->
+        <div class="attraction-card" data-animate>
+          <img src="images/tourist-attraction/Autostadt Wolfsburg.jpg" alt="Autostadt Wolfsburg" />
+
+          <h3 data-key="ta_attr3_title">
+            Autostadt Wolfsburg
+          </h3>
+
+          <p data-key="ta_attr3_desc">
+            A modern automotive and cultural destination with exhibitions,
+            experiences and family-friendly attractions.
+          </p>
+
+          <button
+            class="details-btn"
+            data-attraction="autostadt"
+            data-key="ta_details"
+          >
+            Details
+          </button>
+        </div>
+
+        <!-- CARD 4 -->
+        <div class="attraction-card" data-animate>
+          <img src="images/tourist-attraction/Riddagshausen Nature Area.jpg" alt="Riddagshausen" />
+
+          <h3 data-key="ta_attr4_title">
+            Riddagshausen Nature Area
+          </h3>
+
+          <p data-key="ta_attr4_desc">
+            A peaceful nature reserve perfect for relaxing walks, cycling and
+            discovering local wildlife.
+          </p>
+
+          <button
+            class="details-btn"
+            data-attraction="riddagshausen"
+            data-key="ta_details"
+          >
+            Details
+          </button>
+        </div>
+
+        <!-- CARD 5 -->
+        <div class="attraction-card" data-animate>
+          <img src="images/tourist-attraction/Bürgerpark.jpg" alt="Bürgerpark" />
+
+          <h3 data-key="ta_attr5_title">
+            Bürgerpark
+          </h3>
+
+          <p data-key="ta_attr5_desc">
+            A beautiful green park ideal for outdoor activities, jogging and
+            relaxing moments in nature.
+          </p>
+
+          <button
+            class="details-btn"
+            data-attraction="burgerpark"
+            data-key="ta_details"
+          >
+            Details
+          </button>
+        </div>
+      </div>
+
+      <!-- MODAL -->
+      <div class="modal" id="attractionModal">
+        <div class="modal-content">
+          <span class="modal-close">&times;</span>
+          <h3 id="modalTitle"></h3>
+          <div id="modalDetails"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+      <div class="cta-container">
+        <h2 data-key="ta_cta_title">
+          Plan Your Braunschweig Adventure
+        </h2>
+
+        <p data-key="ta_cta_desc">
+          Discover history, nature and culture while staying at Braunschweig
+          Seminarius Hotel by Belvilla.
+        </p>
+
+        <p>
+           <a href="mailto:reception.braunschweig@hotelsbelvilla.com"
+              >reception.braunschweig@hotelsbelvilla.com</a>
+          |
+          <a href="tel:+4953072090">
+            +49 5307 2090
+          </a>
+        </p>
+
+        <a href="contact.html" class="btn-primary" data-key="hero_cta">
+          Contact Us
+        </a>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="contact.html" class="footer-button" data-key="contact_us">
+            Contact Us
+          </a>
+
+          <address>
+            Braunschweig Seminarius Hotel by Belvilla<br />
+            Hauptstraße 48 B<br />
+            38110 Braunschweig, Germany<br />
+            <a href="tel:+4953072090">+49 5307 2090</a><br />
+            <a href="mailto:reception.braunschweig@hotelsbelvilla.com"
+              >reception.braunschweig@hotelsbelvilla.com</a
+            ><br />
+            <a href="mailto:reservations.braunschweig@hotelsbelvilla.com"
+              >reservations.braunschweig@hotelsbelvilla.com</a
+            ><br />
+          </address>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-key="quick_links">Quick Links</h4>
+
+          <ul>
+            <li>
+              <a href="rooms.html" data-key="footer_rooms">Rooms</a>
+            </li>
+
+            <li>
+              <a href="spa.html" data-key="footer_wellness">
+                Wellness
+              </a>
+            </li>
+
+            <li>
+              <a href="gastronomy.html" data-key="footer_gastro">
+                Gastronomy
+              </a>
+            </li>
+
+            <li>
+              <a href="events.html" data-key="footer_events">
+                Meetings & Events
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="footer-column newsletter">
+          <h4 data-key="newsletter">Newsletter</h4>
+
+          <form class="newsletter-form">
+            <input
+              type="email"
+              name="email"
+              placeholder="Your email address"
+              required
+              aria-label="Your Email"
+              data-key-placeholder="newsletter_placeholder"
+            />
+
+            <button
+              class="btn"
+              type="submit"
+              aria-label="Subscribe to Newsletter"
+              data-key="subscribe"
+            >
+              Subscribe
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p data-key="footer_copy">
+          © 2026 Braunschweig Seminarius Hotel by Belvilla. 
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="tourist-attractions.js"></script>
+  </body>
+</html>

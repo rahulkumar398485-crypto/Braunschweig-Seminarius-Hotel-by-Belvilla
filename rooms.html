@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title data-key="rooms_page_title">
+      Rooms | Braunschweig Seminarius Hotel by Belvilla
+    </title>
+
+    <meta
+      name="description"
+      data-key="rooms_meta"
+      content="Comfortable rooms at Braunschweig Seminarius Hotel by Belvilla including Standard Rooms, Comfort Rooms and Studio Rooms."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="rooms.css" />
+  </head>
+
+  <body>
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-container">
+        <div class="logo">
+          <a href="index.html">
+            <img
+              src="images/belvilla-logo.jpeg"
+              alt="Braunschweig Seminarius Hotel by Belvilla"
+              data-key-alt="logo_alt"
+            />
+          </a>
+        </div>
+
+        <div class="nav-container">
+          <nav class="main-navigation" aria-label="Main Navigation">
+            <ul class="nav-menu">
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_about">About</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="about.html" data-key="nav_story">Our Story</a>
+                  </li>
+                  <li>
+                    <a href="contact.html" data-key="nav_contact">Contact Us</a>
+                  </li>
+                  <li>
+                   <a href="gastronomy.html" data-key="nav_gastronomy">Gastronomy</a>
+                 </li>
+                  <li>
+                    <a href="tourist-attractions.html" data-key="nav_tourist_attractions">Tourist Attractions</a>
+                  </li>
+                  <li>
+                    <a href="gallery.html" data-key="nav_gallery">Gallery</a>
+                  </li>
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_accommodation">
+                  Accommodation
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="rooms.html" data-key="nav_rooms">Rooms</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_wellness"> Wellness</a>
+                <ul class="dropdown-menu">
+                  <!-- <li><a href="pool-area.html" data-key="nav_pool">Pool Area</a></li> -->
+                  <li><a href="spa.html" data-key="nav_spa">Spa & Fitness</a></li>
+                  <!-- <li>
+                    <a href="indoor-playground.html" data-key="nav_playground">Indoor Playground</a>
+                  </li> -->
+                </ul>
+              </li>
+              <li>
+                <a href="excursions.html" data-key="nav_excursions">
+                  Excursions
+                </a>
+              </li>
+
+              <li>
+                <a href="events.html" data-key="nav_events">
+                  Meetings & Events
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="nav-book">
+          <a href="#" class="btn-book" data-key="book_now">Book Now</a>
+          <button id="langToggle" class="lang-btn">DE</button>
+        </div>
+
+        <div class="mobile-menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </header>
+
+
+    <!-- HERO -->
+    <section
+      class="hero-section"
+      style="background-image: url('images/Rooms/rooms1.jpg')"
+    >
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1 data-key="rooms_title">Rooms</h1>
+
+        <p data-key="rooms_desc">
+          Comfortable stays with modern amenities and relaxing spaces
+        </p>
+
+        <a href="#rooms" class="btn-primary" data-key="rooms_cta">
+          Explore Rooms
+        </a>
+      </div>
+    </section>
+
+    <!-- OVERVIEW -->
+    <section class="overview-section">
+      <div class="section-label" data-key="rooms_label">
+        Accommodation
+      </div>
+
+      <div class="overview-container">
+        <div class="overview-divider"></div>
+
+        <h2 data-key="rooms_heading">
+          Comfort & Convenience
+        </h2>
+
+        <p data-animate data-key="rooms_text">
+          Braunschweig Seminarius Hotel by Belvilla offers welcoming
+          accommodation for business travelers and vacation guests. Choose from
+          Standard Rooms, Comfort Rooms and spacious Studio Rooms designed with
+          modern interiors, workspaces and relaxing amenities.
+        </p>
+
+        <div class="overview-divider"></div>
+      </div>
+    </section>
+
+    <!-- ROOMS -->
+    <section class="rooms-section" id="rooms">
+      <div class="section-label" data-key="room_types">
+        Room Types
+      </div>
+
+      <h2 data-key="choose_room">
+        Choose Your Room
+      </h2>
+
+      <div class="rooms-filter">
+        <button class="filter-btn active" data-filter="all">
+          All
+        </button>
+
+        <button class="filter-btn" data-filter="standard">
+          Standard
+        </button>
+
+        <button class="filter-btn" data-filter="comfort">
+          Comfort
+        </button>
+
+        <button class="filter-btn" data-filter="studio">
+          Studio
+        </button>
+      </div>
+
+      <div class="rooms-container">
+        <!-- Standard -->
+        <div class="room-card" data-type="standard">
+          <img src="images/Rooms/rooms21.jpg" />
+
+          <h3 data-key="room_standard">
+            Standard Room
+          </h3>
+
+          <p data-key="room_standard_desc">
+            Comfortable room with double or twin beds, TV, desk, coffee and tea
+            station and a bathroom with shower or bathtub.
+          </p>
+
+          <button class="details-btn" data-room="standard">
+            Details
+          </button>
+        </div>
+
+        <!-- Comfort -->
+        <div class="room-card" data-type="comfort">
+          <img src="images/Rooms/rooms19.jpg" />
+
+          <h3 data-key="room_comfort">
+            Comfort Room
+          </h3>
+
+          <p data-key="room_comfort_desc">
+            Stylish room with modern furnishings, relaxing atmosphere and
+            enhanced comfort for business and leisure stays.
+          </p>
+
+          <button class="details-btn" data-room="comfort">
+            Details
+          </button>
+        </div>
+
+        <!-- Studio -->
+        <div class="room-card" data-type="studio">
+          <img src="images/Rooms/rooms17.jpg" />
+
+          <h3 data-key="room_studio">
+            Studio Room
+          </h3>
+
+          <p data-key="room_studio_desc">
+            Spacious two-level studio with living area, twin beds, walk-in
+            closet and modern bathroom.
+          </p>
+
+          <button class="details-btn" data-room="studio">
+            Details
+          </button>
+        </div>
+
+        <!-- Superior Single -->
+        <div class="room-card" data-type="standard">
+          <img src="images/Rooms/rooms10.jpg" />
+
+          <h3 data-key="room_single">
+            Superior Single Room
+          </h3>
+
+          <p data-key="room_single_desc">
+            Ideal for solo travelers with cozy single bed, workspace, free Wi-Fi
+            and modern amenities.
+          </p>
+
+          <button class="details-btn" data-room="single">
+            Details
+          </button>
+        </div>
+      </div>
+
+      <!-- MODAL -->
+      <div class="modal" id="roomModal">
+        <div class="modal-content">
+          <span class="modal-close">&times;</span>
+
+          <h3 id="modalTitle"></h3>
+
+          <div id="modalDetails"></div>
+
+          <a href="#" class="btn-primary" data-key="book_room">
+            Book Now
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- STAY EXPERIENCE -->
+    <!-- <section class="treatments-section">
+      <div class="treatments-container">
+        <div class="treatments-card">
+          <h3 data-key="stay_title">
+            A Relaxing Stay in Braunschweig
+          </h3>
+
+          <p data-key="stay_desc1">
+            Whether you are visiting for business, conferences or a weekend
+            getaway, our rooms combine comfort and functionality in a welcoming
+            atmosphere.
+          </p>
+
+          <p data-key="stay_desc2">
+            Enjoy thoughtful amenities including free Wi-Fi, coffee and tea
+            stations, workspaces and modern bathrooms designed for relaxing
+            stays.
+          </p>
+        </div>
+      </div>
+    </section> -->
+
+    <!-- CTA -->
+    <section class="cta-section">
+      <div class="cta-container">
+        <h2 data-key="cta_title">
+          Book Your Room
+        </h2>
+
+        <p data-key="cta_desc">
+          Relax in comfort and enjoy your stay at Braunschweig Seminarius Hotel
+          by Belvilla.
+        </p>
+
+        <p>
+           <a href="mailto:reception.braunschweig@hotelsbelvilla.com"
+              >reception.braunschweig@hotelsbelvilla.com</a>
+          |
+          <a href="tel:+4953072090">
+            +49 5307 2090
+          </a>
+        </p>
+
+        <a href="#" class="btn-primary" data-key="book_now">
+          Book Now
+        </a>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="contact.html" class="footer-button" data-key="contact_us">
+            Contact Us
+          </a>
+
+          <address>
+            Braunschweig Seminarius Hotel by Belvilla<br />
+            Hauptstraße 48 B<br />
+            38110 Braunschweig, Germany<br />
+            <a href="tel:+4953072090">+49 5307 2090</a><br />
+            <a href="mailto:reception.braunschweig@hotelsbelvilla.com"
+              >reception.braunschweig@hotelsbelvilla.com</a
+            ><br />
+            <a href="mailto:reservations.braunschweig@hotelsbelvilla.com"
+              >reservations.braunschweig@hotelsbelvilla.com</a
+            ><br />
+          </address>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-key="quick_links">Quick Links</h4>
+
+          <ul>
+            <li>
+              <a href="rooms.html" data-key="footer_rooms">Rooms</a>
+            </li>
+
+            <li>
+              <a href="spa.html" data-key="footer_wellness">
+                Wellness
+              </a>
+            </li>
+
+            <li>
+              <a href="gastronomy.html" data-key="footer_gastro">
+                Gastronomy
+              </a>
+            </li>
+
+            <li>
+              <a href="events.html" data-key="footer_events">
+                Meetings & Events
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="footer-column newsletter">
+          <h4 data-key="newsletter">Newsletter</h4>
+
+          <form class="newsletter-form">
+            <input
+              type="email"
+              name="email"
+              placeholder="Your email address"
+              required
+              aria-label="Your Email"
+              data-key-placeholder="newsletter_placeholder"
+            />
+
+            <button
+              class="btn"
+              type="submit"
+              aria-label="Subscribe to Newsletter"
+              data-key="subscribe"
+            >
+              Subscribe
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p data-key="footer_copy">
+          © 2026 Braunschweig Seminarius Hotel by Belvilla. 
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="rooms.js"></script>
+  </body>
+</html>

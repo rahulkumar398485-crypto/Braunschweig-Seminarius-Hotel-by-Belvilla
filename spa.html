@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Wellness & Fitness | Braunschweig Seminarius Hotel by Belvilla</title>
+
+    <meta
+      name="description"
+      content="Relax and recharge at the wellness and fitness area of Braunschweig Seminarius Hotel by Belvilla. Enjoy the sauna, relaxation spaces and nearby fitness facilities."
+    />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="spa.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Playfair+Display:wght@600&family=Lora:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <div class="preloader">
+      <div class="loader"></div>
+    </div>
+
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="header-container">
+        <div class="logo">
+          <a href="index.html">
+            <img
+              src="images/belvilla-logo.jpeg"
+              alt="Braunschweig Seminarius Hotel by Belvilla"
+              data-key-alt="logo_alt"
+            />
+          </a>
+        </div>
+
+        <div class="nav-container">
+          <nav class="main-navigation" aria-label="Main Navigation">
+            <ul class="nav-menu">
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_about">About</a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="about.html" data-key="nav_story">Our Story</a>
+                  </li>
+                  <li>
+                    <a href="contact.html" data-key="nav_contact">Contact Us</a>
+                  </li>
+                  <li>
+                   <a href="gastronomy.html" data-key="nav_gastronomy">Gastronomy</a>
+                 </li>
+                  <li>
+                    <a href="tourist-attractions.html" data-key="nav_tourist_attractions">Tourist Attractions</a>
+                  </li>
+                  <li>
+                    <a href="gallery.html" data-key="nav_gallery">Gallery</a>
+                  </li>
+                </ul>
+              </li>
+
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_accommodation">
+                  Accommodation
+                </a>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="rooms.html" data-key="nav_rooms">Rooms</a>
+                  </li>
+                </ul>
+              </li>
+              <li class="has-dropdown">
+                <a href="#" aria-haspopup="true" data-key="nav_wellness"> Wellness</a>
+                <ul class="dropdown-menu">
+                  <!-- <li><a href="pool-area.html" data-key="nav_pool">Pool Area</a></li> -->
+                  <li><a href="spa.html" data-key="nav_spa">Spa & Fitness</a></li>
+                  <!-- <li>
+                    <a href="indoor-playground.html" data-key="nav_playground">Indoor Playground</a>
+                  </li> -->
+                </ul>
+              </li>
+              <li>
+                <a href="excursions.html" data-key="nav_excursions">
+                  Excursions
+                </a>
+              </li>
+
+              <li>
+                <a href="events.html" data-key="nav_events">
+                  Meetings & Events
+                </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+        <div class="nav-book">
+          <a href="#" class="btn-book" data-key="book_now">Book Now</a>
+          <button id="langToggle" class="lang-btn">DE</button>
+        </div>
+
+        <div class="mobile-menu-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </header>
+
+
+    <!-- HERO -->
+    <section
+      class="hero-section"
+      style="background-image: url('images/Events/spa2.jpg')"
+    >
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1 data-key="spa_hero_title">Spa & Fitness</h1>
+
+        <p data-key="spa_hero_text">
+          Relax, recharge and enjoy peaceful moments in Braunschweig
+        </p>
+
+        <a href="#facilities" class="btn-primary" data-key="spa_hero_btn"
+          >Discover Wellness</a
+        >
+      </div>
+    </section>
+
+    <!-- OVERVIEW -->
+    <section class="overview-section">
+      <div class="section-label" data-key="spa_overview_label">
+        Wellness
+      </div>
+
+      <div class="overview-container">
+        <div class="overview-divider"></div>
+
+        <h2 data-key="spa_overview_title">
+          A Relaxing Escape for Body & Mind
+        </h2>
+
+        <p data-animate data-key="spa_overview_text">
+          In our wellness area, you can relax and leave your daily worries
+          behind. Treat yourself to some downtime in our sauna and relaxation
+          area. Right along the canal near the hotel, you'll find beautiful
+          running routes for your outdoor workouts. Guests can also use the gym
+          next to the hotel for a small fee of €5.00.
+        </p>
+
+        <div class="overview-divider"></div>
+      </div>
+    </section>
+
+    <!-- FACILITIES -->
+    <section class="facilities-section" id="facilities">
+      <div class="section-label" data-key="spa_facilities_label">
+        Wellness Facilities
+      </div>
+
+      <h2 data-key="spa_facilities_title">Relax & Recharge</h2>
+
+      <br />
+
+      <div class="facilities-container">
+        <div class="facility-card" data-animate>
+          <img src="images/Events/spa2.jpg" alt="Sauna" />
+
+          <h3 data-key="spa_sauna_title">Sauna Area</h3>
+
+          <p data-key="spa_sauna_text">
+            Relax and recharge in our peaceful sauna area after a productive day
+            or exciting city trip.
+          </p>
+        </div>
+
+        <div class="facility-card" data-animate>
+          <img src="images/Dining/spa3.jpg" alt="Relaxation Area" />
+
+          <h3 data-key="spa_relax_title">Relaxation Lounge</h3>
+
+          <p data-key="spa_relax_text">
+            Enjoy calm surroundings and quiet moments in our comfortable
+            relaxation spaces.
+          </p>
+        </div>
+
+        <div class="facility-card" data-animate>
+          <img src="images/Hotel/hotel2.jpg" alt="Running Routes" />
+
+          <h3 data-key="spa_running_title">Running Routes</h3>
+
+          <p data-key="spa_running_text">
+            Explore scenic running and walking routes along the nearby canal for
+            refreshing outdoor workouts.
+          </p>
+        </div>
+
+        <!-- <div class="facility-card" data-animate>
+          <img src="images/wellness/gym.jpg" alt="Fitness Area" />
+
+          <h3 data-key="spa_fitness_title">Fitness Access</h3>
+
+          <p data-key="spa_fitness_text">
+            Stay active during your stay with access to the neighboring gym for
+            only €5.00.
+          </p>
+        </div> -->
+      </div>
+    </section>
+
+    <!-- OPENING HOURS -->
+    <section class="treatments-section">
+      <div class="section-label" data-key="spa_hours_label">
+        Opening Hours
+      </div>
+
+      <div class="treatments-container">
+        <div class="treatments-card">
+          <h3 data-key="spa_hours_title">Wellness & Fitness Hours</h3>
+
+          <p data-key="spa_sauna_hours">
+            <strong>Sauna</strong><br />
+            Monday to Sunday from 5:00 p.m. to 10:00 p.m.
+          </p>
+
+          <p data-key="spa_fitness_hours">
+            <strong>Fitness</strong><br />
+            Monday to Thursday from 7:00 a.m. to 08:00 p.m.<br />
+            Friday from 7:00 a.m. to 07:00 p.m.<br />
+            Saturday and Sunday from 9:00 a.m. to 02:00 p.m.
+          </p>
+
+          <p>
+            E: reservations@braunschweigseminariushotel.com<br />
+            T: +49 531 8010
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="cta-section">
+      <div class="cta-container">
+        <h2 data-key="spa_cta_title">Enjoy Your Wellness Stay</h2>
+
+        <p data-key="spa_cta_text">
+          Experience comfort, relaxation and fitness at Braunschweig Seminarius
+          Hotel by Belvilla.
+        </p>
+
+        <p>
+          <a href="mailto:reception.braunschweig@hotelsbelvilla.com"
+              >reception.braunschweig@hotelsbelvilla.com</a>
+          |
+          <a href="tel:+495318010">+49 531 8010</a>
+        </p>
+
+        <a href="contact.html" class="btn-primary" data-key="spa_cta_btn">
+          Contact Us
+        </a>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <a href="contact.html" class="footer-button" data-key="contact_us">
+            Contact Us
+          </a>
+
+          <address>
+            Braunschweig Seminarius Hotel by Belvilla<br />
+            Hauptstraße 48 B<br />
+            38110 Braunschweig, Germany<br />
+            <a href="tel:+4953072090">+49 5307 2090</a><br />
+            <a href="mailto:reception.braunschweig@hotelsbelvilla.com"
+              >reception.braunschweig@hotelsbelvilla.com</a
+            ><br />
+            <a href="mailto:reservations.braunschweig@hotelsbelvilla.com"
+              >reservations.braunschweig@hotelsbelvilla.com</a
+            ><br />
+          </address>
+        </div>
+
+        <div class="footer-column">
+          <h4 data-key="quick_links">Quick Links</h4>
+
+          <ul>
+            <li>
+              <a href="rooms.html" data-key="footer_rooms">Rooms</a>
+            </li>
+
+            <li>
+              <a href="spa.html" data-key="footer_wellness">
+                Wellness
+              </a>
+            </li>
+
+            <li>
+              <a href="gastronomy.html" data-key="footer_gastro">
+                Gastronomy
+              </a>
+            </li>
+
+            <li>
+              <a href="events.html" data-key="footer_events">
+                Meetings & Events
+              </a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="footer-column newsletter">
+          <h4 data-key="newsletter">Newsletter</h4>
+
+          <form class="newsletter-form">
+            <input
+              type="email"
+              name="email"
+              placeholder="Your email address"
+              required
+              aria-label="Your Email"
+              data-key-placeholder="newsletter_placeholder"
+            />
+
+            <button
+              class="btn"
+              type="submit"
+              aria-label="Subscribe to Newsletter"
+              data-key="subscribe"
+            >
+              Subscribe
+            </button>
+          </form>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p data-key="footer_copy">
+          © 2026 Braunschweig Seminarius Hotel by Belvilla. 
+        </p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script src="spa.js"></script>
+  </body>
+</html>

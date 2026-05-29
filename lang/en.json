@@ -1,0 +1,429 @@
+{
+  "page_title": "Braunschweig Seminarius Hotel by Belvilla",
+  "meta_description": "Braunschweig Seminarius Hotel by Belvilla offers comfortable accommodation, wellness, gastronomy, conferences and event spaces in Braunschweig.",
+
+  "logo_alt": "Braunschweig Seminarius Hotel by Belvilla",
+
+  "nav_about": "About",
+  "nav_story": "Our Story",
+  "nav_contact": "Contact Us",
+  "nav_gastronomy": "Gastronomy",
+  "nav_tourist_attractions": "Tourist Attractions",
+  "nav_gallery": "Gallery",
+  "nav_accommodation": "Accommodation",
+  "nav_rooms": "Rooms",
+  "nav_wellness": "Wellness",
+  "nav_spa": "Spa & Fitness",
+  "nav_excursions": "Excursions",
+  "nav_events": "Meetings & Events",
+
+  "book_now": "Book Now",
+
+  "alt_hotel": "Braunschweig Seminarius Hotel",
+  "alt_rooms": "Comfort Rooms",
+  "alt_wellness": "Wellness Area",
+
+  "hero_title": "Braunschweig Seminarius Hotel by Belvilla",
+  "hero_subtitle": "Comfortable stays, wellness and events in Braunschweig.",
+  "hero_cta": "Book Your Stay",
+
+  "hero_slide2_title": "Comfortable Rooms & Studios",
+  "hero_slide2_desc": "Modern accommodation for business and leisure travelers.",
+  "hero_slide2_cta": "Explore Rooms",
+
+  "hero_slide3_title": "Relaxation & Wellness",
+  "hero_slide3_desc": "Enjoy the sauna, relaxation area and fitness facilities.",
+  "hero_slide3_cta": "Discover Wellness",
+
+  "quote_text": "A welcoming stay for business travelers, families and weekend guests.",
+
+  "section_highlights": "Highlights",
+
+  "highlight_rooms": "Rooms",
+  "highlight_gastro": "Gastronomy",
+  "highlight_wellness": "Wellness",
+  "highlight_events": "Events & Meetings",
+  "highlight_attractions": "Tourist Attractions",
+  "highlight_about": "About Us",
+
+  "section_discover": "Discover",
+  "discover_title": "Comfortable Stay in Braunschweig",
+  "discover_desc": "The Braunschweig Seminarius Hotel by Belvilla is located in a quiet and easily accessible area near the A2 highway and Braunschweig-Wolfsburg Airport. Ideal for business travelers, conferences, family celebrations and relaxing city breaks.",
+  "learn_more": "Learn More",
+
+  "section_accommodation": "Accommodation",
+  "accommodation_title": "Modern Rooms for Every Stay",
+  "accommodation_desc": "Choose from Standard Rooms, Comfort Rooms and spacious Studio Rooms. Every room category combines comfort, functionality and modern amenities for productive workdays and relaxing nights.",
+  "view_accommodation": "View Accommodation",
+
+  "section_wellness": "Wellness",
+  "wellness_title": "Relax & Recharge",
+  "wellness_desc": "Unwind in the sauna and relaxation area or stay active with nearby running routes and a fitness center next to the hotel.",
+  "explore_wellness": "Explore Wellness",
+
+  "section_explore": "Explore Braunschweig",
+  "explore_cathedral": "Braunschweig Cathedral",
+  "explore_castle": "Dankwarderode Castle",
+  "explore_autostadt": "Autostadt Wolfsburg",
+  "explore_riddagshausen": "Riddagshausen Nature Area",
+
+  "contact_us": "Contact Us",
+  "quick_links": "Quick Links",
+
+  "footer_rooms": "Rooms",
+  "footer_wellness": "Wellness",
+  "footer_gastro": "Gastronomy",
+  "footer_events": "Meetings & Events",
+
+  "newsletter": "Newsletter",
+  "newsletter_placeholder": "Your email address",
+  "subscribe": "Subscribe",
+
+  "footer_copy": "© 2026 Braunschweig Seminarius Hotel by Belvilla.",
+  
+  "about_page_title": "About Braunschweig Seminarius Hotel by Belvilla",
+  "about_meta_description": "Discover Braunschweig Seminarius Hotel by Belvilla – a comfortable hotel in Braunschweig offering accommodation, wellness, gastronomy and event facilities.",
+
+  "about_hero_title": "Braunschweig Seminarius Hotel by Belvilla",
+  "about_hero_desc": "Comfortable stays for business travelers, families and weekend guests.",
+
+  "about_section_story": "Our Story",
+
+  "about_nature_title": "Comfortable & Convenient Location",
+  "about_nature_desc": "Braunschweig Seminarius Hotel by Belvilla is located in a quiet and easily accessible area near the A2 highway and just minutes from Braunschweig-Wolfsburg Airport. The hotel offers a welcoming atmosphere for both business and leisure travelers.",
+
+  "about_guest_title": "A Stay Designed for Every Guest",
+  "about_guest_desc": "Our hotel features Standard Rooms, Comfort Rooms and spacious Studio Rooms with modern amenities, comfortable interiors and thoughtful details. Whether for conferences, family celebrations or relaxing weekends, guests enjoy comfort and convenience throughout their stay.",
+
+  "about_location_label": "Location",
+  "about_location_title": "Discover Braunschweig",
+  "about_location_desc": "Braunschweig combines history, culture and green surroundings, making it an ideal destination for city breaks and business travel.",
+
+  "about_nearby": "Nearby Attractions:",
+  "about_attr1": "Braunschweig Cathedral",
+  "about_attr2": "Dankwarderode Castle",
+  "about_attr3": "Bürgerpark",
+  "about_attr4": "Riddagshausen Nature Area",
+  "about_attr5": "Autostadt Wolfsburg",
+
+  "about_why": "Why Guests Love Our Location",
+  "about_why1": "Quiet and accessible surroundings",
+  "about_why2": "Close to highways and airport",
+  "about_why3": "Perfect for business and leisure stays",
+  "about_why4": "Great starting point for excursions",
+
+  "about_values_label": "What We Offer",
+  "about_values_title": "Comfort, Wellness & Events",
+
+  "about_val1_title": "Comfortable Accommodation",
+  "about_val1_desc": "Modern Standard, Comfort and Studio Rooms designed for relaxation and productivity.",
+
+  "about_val2_title": "Wellness & Fitness",
+  "about_val2_desc": "Relax in the sauna area or stay active with nearby running routes and fitness facilities.",
+
+  "about_val3_title": "Gastronomy",
+  "about_val3_desc": "Enjoy breakfast selections, seasonal restaurant dishes and relaxing evenings at the hotel bar.",
+
+  "about_val4_title": "Conferences & Celebrations",
+  "about_val4_desc": "Stylish venues and modern event spaces for weddings, family events, workshops and meetings.",
+  
+  "contact_page_title": "Contact Braunschweig Seminarius Hotel by Belvilla",
+  "contact_meta_description": "Contact Braunschweig Seminarius Hotel by Belvilla for accommodation, wellness stays, meetings, weddings and conferences in Braunschweig.",
+
+  "contact_title": "Contact Us",
+  "contact_desc": "Plan your stay at Braunschweig Seminarius Hotel by Belvilla",
+  "contact_cta": "Get in Touch",
+
+  "contact_form_label": "Get in Touch",
+
+  "contact_info_label": "Contact Information",
+  "contact_reach": "Reach Us",
+  "contact_hotel_name": "Braunschweig Seminarius Hotel by Belvilla",
+
+  "contact_getting_here": "Getting Here",
+  "contact_travel": "Travel to Braunschweig Seminarius Hotel by Belvilla",
+
+  "contact_train": "By Train",
+  "contact_train_desc": "Braunschweig Central Station offers convenient regional and long-distance train connections to the city.",
+
+  "contact_car": "By Car",
+  "contact_car_desc": "The hotel is easily accessible via the A2 highway and offers convenient access for business and leisure travelers.",
+
+  "contact_air": "By Air",
+  "contact_air_desc": "Braunschweig-Wolfsburg Airport is located just a few minutes from the hotel.",
+
+  "gallery_page_title": "Gallery | Braunschweig Seminarius Hotel by Belvilla",
+  "gallery_meta_description": "Discover Braunschweig Seminarius Hotel by Belvilla through our gallery featuring rooms, wellness, gastronomy and event spaces.",
+
+  "gallery_title": "Gallery",
+  "gallery_desc": "Discover the spaces of Braunschweig Seminarius Hotel by Belvilla",
+  "gallery_cta": "Explore Gallery",
+
+  "gallery_label": "Moments at the Hotel",
+  "gallery_heading": "Explore Our Spaces",
+
+  "gallery_all": "All",
+  "gallery_rooms": "Rooms",
+  "gallery_wellness": "Wellness",
+  "gallery_restaurant": "Restaurant",
+  "gallery_events": "Events",
+  "gallery_city": "Braunschweig",
+
+  "gallery_img1": "Comfortable Standard Rooms",
+  "gallery_img2": "Spacious Studio Rooms",
+  "gallery_img3": "Relaxing Sauna Area",
+  "gallery_img4": "Seasonal Dining Experience",
+  "gallery_img5": "Modern Conference Spaces",
+  "gallery_img6": "Historic Braunschweig Cathedral",
+  "gallery_img7": "Dankwarderode Castle",
+  "gallery_img8": "Fitness & Wellness Facilities",
+
+  "gallery_cta_title": "Experience Braunschweig Seminarius Hotel",
+  "gallery_cta_desc": "Plan your stay and discover comfort, wellness and culture in Braunschweig.",
+
+  "gastro_page_title": "Gastronomy | Braunschweig Seminarius Hotel by Belvilla",
+  "gastro_meta_description": "Enjoy breakfast, seasonal cuisine and relaxing evenings at the restaurant and bar of Braunschweig Seminarius Hotel by Belvilla.",
+
+  "gastro_title": "Gastronomy",
+  "gastro_desc": "Culinary experiences at Braunschweig Seminarius Hotel by Belvilla",
+  "gastro_cta": "View Dining",
+
+  "gastro_overview_title": "Fresh & Seasonal Cuisine",
+  "gastro_overview_desc": "Start your day with a varied breakfast buffet and enjoy seasonal dishes in our restaurant. Whether for business travelers or vacation guests, our gastronomy offers a welcoming atmosphere and enjoyable dining experiences throughout the day.",
+
+  "gastro_rest1_title": "Breakfast Buffet",
+  "gastro_rest1_desc": "Enjoy fresh rolls, hearty spreads, hot and cold dishes and a wide breakfast selection in a peaceful atmosphere.",
+  "gastro_rest1_time": "Monday to Friday: 6:00 a.m. – 10:00 a.m.",
+
+  "gastro_rest2_title": "Weekend Breakfast",
+  "gastro_rest2_desc": "Relax and enjoy an extended breakfast experience during weekends and holidays with fresh and seasonal selections.",
+  "gastro_rest2_time": "Saturday, Sunday & Holidays: 6:30 a.m. – 10:30 a.m.",
+
+  "gastro_rest3_title": "Restaurant",
+  "gastro_rest3_desc": "Our restaurant serves seasonal dishes in a relaxed atmosphere, perfect for business dinners, couples and family evenings.",
+  "gastro_rest3_time": "Monday to Saturday: 6:00 p.m. – 09:00 p.m.",
+
+  "gastro_rest4_title": "Hotel Bar",
+  "gastro_rest4_desc": "Take a break and enjoy drinks, cocktails and relaxed evenings at the hotel bar after a productive or adventurous day.",
+  "gastro_rest4_time": "Open daily during restaurant hours",
+
+  "gastro_cta_title": "Reserve Your Dining Experience",
+  "gastro_cta_desc": "Enjoy seasonal cuisine and welcoming hospitality at Braunschweig Seminarius Hotel by Belvilla.",
+
+  "ta_page_title": "Explore Braunschweig | Braunschweig Seminarius Hotel by Belvilla",
+  "ta_meta_description": "Discover the cultural and natural highlights around Braunschweig Seminarius Hotel by Belvilla including historic landmarks, parks and nearby attractions.",
+
+  "ta_title": "Explore Braunschweig",
+  "ta_desc": "Discover culture, nature and history around the city of lions",
+  "ta_cta": "Discover Attractions",
+
+  "ta_label": "City Adventures",
+  "ta_overview_title": "Experience the Best of Braunschweig",
+  "ta_overview_desc": "Braunschweig combines historic landmarks, charming cafés, green parks and cultural highlights. Guests can explore cathedrals, castles, museums and nearby nature areas while enjoying a perfect mix of city life and relaxation.",
+
+  "ta_top_label": "Top Attractions",
+  "ta_top_title": "Discover the Region",
+
+  "ta_attr1_title": "Braunschweig Cathedral",
+  "ta_attr1_desc": "One of the city's most iconic landmarks with impressive medieval architecture and historical significance.",
+
+  "ta_attr2_title": "Dankwarderode Castle",
+  "ta_attr2_desc": "A reconstructed medieval castle showcasing the rich history of Braunschweig and the region.",
+
+  "ta_attr3_title": "Autostadt Wolfsburg",
+  "ta_attr3_desc": "A modern automotive and cultural destination with exhibitions, experiences and family-friendly attractions.",
+
+  "ta_attr4_title": "Riddagshausen Nature Area",
+  "ta_attr4_desc": "A peaceful nature reserve perfect for relaxing walks, cycling and discovering local wildlife.",
+
+  "ta_attr5_title": "Bürgerpark",
+  "ta_attr5_desc": "A beautiful green park ideal for outdoor activities, jogging and relaxing moments in nature.",
+
+  "ta_details": "Details",
+
+  "ta_cta_title": "Plan Your Braunschweig Adventure",
+  "ta_cta_desc": "Discover history, nature and culture while staying at Braunschweig Seminarius Hotel by Belvilla.",
+
+  "ta_cathedral_modal": "Braunschweig Cathedral is one of the most important medieval churches in northern Germany and a symbol of the city.",
+  "ta_castle_modal": "Dankwarderode Castle reflects the history of Henry the Lion and the medieval heritage of Braunschweig.",
+  "ta_autostadt_modal": "Autostadt Wolfsburg offers exhibitions, automotive experiences, architecture and entertainment for all ages.",
+  "ta_riddagshausen_modal": "The Riddagshausen Nature Area features lakes, trails and protected habitats for birds and wildlife.",
+  "ta_burgerpark_modal": "Bürgerpark is a popular green oasis offering walking paths, recreation areas and scenic landscapes.",
+  
+  "rooms_page_title": "Rooms | Braunschweig Seminarius Hotel by Belvilla",
+  "rooms_meta": "Comfortable rooms at Braunschweig Seminarius Hotel by Belvilla including Standard Rooms, Comfort Rooms and Studio Rooms.",
+
+  "rooms_title": "Rooms",
+  "rooms_desc": "Comfortable stays with modern amenities and relaxing spaces",
+  "rooms_cta": "Explore Rooms",
+
+  "rooms_label": "Accommodation",
+  "rooms_heading": "Comfort & Convenience",
+  "rooms_text": "Braunschweig Seminarius Hotel by Belvilla offers welcoming accommodation for business travelers and vacation guests. Choose from Standard Rooms, Comfort Rooms and spacious Studio Rooms designed with modern interiors, workspaces and relaxing amenities.",
+
+  "room_types": "Room Types",
+  "choose_room": "Choose Your Room",
+
+  "room_standard": "Standard Room",
+  "room_standard_desc": "Comfortable room with double or twin beds, TV, desk, coffee and tea station and a bathroom with shower or bathtub.",
+
+  "room_comfort": "Comfort Room",
+  "room_comfort_desc": "Stylish room with modern furnishings, relaxing atmosphere and enhanced comfort for business and leisure stays.",
+
+  "room_studio": "Studio Room",
+  "room_studio_desc": "Spacious two-level studio with living area, twin beds, walk-in closet and modern bathroom.",
+
+  "room_single": "Superior Single Room",
+  "room_single_desc": "Ideal for solo travelers with cozy single bed, workspace, free Wi-Fi and modern amenities.",
+
+  "book_room": "Book Now",
+  
+  "hotel_standard_title": "Standard Room",
+  "hotel_standard_modal": "Comfortable room with double or twin beds, TV, desk, coffee and tea station plus a bathroom with shower or bathtub.",
+
+  "hotel_comfort_title": "Comfort Room",
+  "hotel_comfort_modal": "Modern room with stylish furnishings, relaxing atmosphere and enhanced comfort for business and leisure travelers.",
+
+  "hotel_studio_title": "Studio Room",
+  "hotel_studio_modal": "Spacious two-level studio with living area, walk-in closet, twin beds, workspace and modern bathroom.",
+
+  "hotel_single_title": "Superior Single Room",
+  "hotel_single_modal": "Perfect for solo travelers with cozy single bed, free Wi-Fi, TV, coffee station and functional workspace.",
+
+
+  "cta_title": "Book Your Room",
+  "cta_desc": "Relax in comfort and enjoy your stay at Braunschweig Seminarius Hotel by Belvilla.",
+
+ 
+  "spa_hero_title": "Spa & Fitness",
+  "spa_hero_text": "Relax, recharge and enjoy peaceful moments in Braunschweig",
+  "spa_hero_btn": "Discover Wellness",
+
+  "spa_overview_label": "Wellness",
+  "spa_overview_title": "A Relaxing Escape for Body & Mind",
+  "spa_overview_text": "In our wellness area, you can relax and leave your daily worries behind. Treat yourself to some downtime in our sauna and relaxation area. Right along the canal near the hotel, you'll find beautiful running routes for your outdoor workouts. Guests can also use the gym next to the hotel for a small fee of €5.00.",
+
+  "spa_facilities_label": "Wellness Facilities",
+  "spa_facilities_title": "Relax & Recharge",
+
+  "spa_sauna_title": "Sauna Area",
+  "spa_sauna_text": "Relax and recharge in our peaceful sauna area after a productive day or exciting city trip.",
+
+  "spa_relax_title": "Relaxation Lounge",
+  "spa_relax_text": "Enjoy calm surroundings and quiet moments in our comfortable relaxation spaces.",
+
+  "spa_running_title": "Running Routes",
+  "spa_running_text": "Explore scenic running and walking routes along the nearby canal for refreshing outdoor workouts.",
+
+  "spa_hours_label": "Opening Hours",
+  "spa_hours_title": "Wellness & Fitness Hours",
+
+  "spa_sauna_hours": "Sauna\nMonday to Sunday from 5:00 p.m. to 10:00 p.m.",
+
+  "spa_fitness_hours": "Fitness\nMonday to Thursday from 7:00 a.m. to 08:00 p.m.\nFriday from 7:00 a.m. to 07:00 p.m.\nSaturday and Sunday from 9:00 a.m. to 02:00 p.m.",
+
+  "spa_cta_title": "Enjoy Your Wellness Stay",
+  "spa_cta_text": "Experience comfort, relaxation and fitness at Braunschweig Seminarius Hotel by Belvilla.",
+  "spa_cta_btn": "Contact Us",
+
+
+  "excursions_meta_title": "Excursions | Braunschweig Seminarius Hotel by Belvilla",
+  "excursions_meta_description": "Discover Braunschweig, Wolfsburg and cultural attractions near Braunschweig Seminarius Hotel by Belvilla.",
+
+  "excursions_hero_title": "Excursions",
+  "excursions_hero_text": "Discover the cultural highlights and natural beauty around Braunschweig",
+  "excursions_hero_btn": "Explore Attractions",
+
+  "excursions_overview_label": "Discover Braunschweig",
+  "excursions_overview_title": "Culture, Nature & New Experiences",
+  "excursions_overview_text": "Braunschweig is the perfect destination for a varied weekend getaway. The City of Lions charms visitors with its historic old town, cathedral, Dankwarderode Castle and cozy cafés. Nature lovers will enjoy walks in Bürgerpark or the idyllic village of Riddagshausen. The surrounding area also offers exciting destinations including the Autostadt in Wolfsburg, museums, cycling and hiking trails and many cultural highlights.",
+
+  "excursions_activities_label": "Attractions",
+  "excursions_activities_title": "Explore the Region",
+
+  "excursions_card1_title": "Historic Old Town",
+  "excursions_card1_text": "Discover Braunschweig's charming old town with beautiful architecture, cozy cafés and historical landmarks.",
+
+  "excursions_card2_title": "Dankwarderode Castle",
+  "excursions_card2_text": "Visit the famous Dankwarderode Castle and explore the cultural history of Braunschweig.",
+
+  "excursions_card3_title": "Autostadt Wolfsburg",
+  "excursions_card3_text": "Enjoy an exciting day trip to the Autostadt in Wolfsburg with exhibitions, museums and automotive experiences.",
+
+  "excursions_card4_title": "Nature & Outdoor Activities",
+  "excursions_card4_text": "Explore cycling trails, hiking paths and relaxing walks in Bürgerpark and Riddagshausen.",
+
+  "excursions_outdoors_label": "Experiences",
+
+  "excursions_culture_title": "Cultural Highlights",
+  "excursions_culture_text": "Discover museums, historic churches, castles and local attractions that showcase the rich culture and heritage of Braunschweig.",
+
+  "excursions_nature_title": "Nature & Recreation",
+  "excursions_nature_text": "Enjoy cycling, hiking and peaceful outdoor activities in the scenic natural surroundings near the hotel.",
+
+  "excursions_cta_title": "Discover Braunschweig",
+  "excursions_cta_text": "Experience culture, history and nature during your stay at Braunschweig Seminarius Hotel by Belvilla.",
+  "excursions_cta_btn": "Plan Your Stay",
+  
+  "events_meta_title": "Meetings & Events | Braunschweig Seminarius Hotel by Belvilla",
+  "events_meta_description": "Host conferences, meetings and family celebrations at Braunschweig Seminarius Hotel by Belvilla.",
+
+  "events_hero_title": "Meetings & Events",
+  "events_hero_text": "The ideal venue for conferences, meetings and celebrations in Braunschweig",
+  "events_hero_btn": "Explore Spaces",
+
+  "events_overview_title": "A Professional Setting for Every Occasion",
+  "events_overview_text1": "Braunschweig Seminarius Hotel by Belvilla offers the perfect setting for successful conferences, workshops, meetings and private celebrations. Our modern event spaces provide a quiet and professional atmosphere for productive events and unforgettable moments.",
+  "events_overview_text2": "Whether you are planning a business seminar, team-building event, wedding or family celebration, our experienced team and flexible event spaces ensure your event runs smoothly from beginning to end.",
+
+  "events_spaces_label": "Event Spaces",
+
+  "events_space1_title": "Conference Rooms",
+  "events_space1_text": "Our modern conference spaces accommodate groups of up to 60 people and can be flexibly adapted to your event requirements.",
+
+  "events_space2_title": "Weddings & Family Celebrations",
+  "events_space2_text": "Celebrate weddings, birthdays and special occasions in stylish surroundings with personalized planning and attentive service.",
+
+  "events_space3_title": "Business Meetings",
+  "events_space3_text": "Professional technology, comfortable seating and a productive working atmosphere make our hotel ideal for meetings and workshops.",
+
+  "events_facilities_label": "Facilities",
+
+  "events_amenity1_title": "Professional Technology",
+  "events_amenity1_text": "Fully equipped event spaces with modern conference and presentation technology.",
+
+  "events_amenity2_title": "Flexible Room Setup",
+  "events_amenity2_text": "Event rooms can be individually adapted for seminars, conferences and celebrations.",
+
+  "events_amenity3_title": "Catering Services",
+  "events_amenity3_text": "Enjoy breakfast, restaurant dining and personalized catering options for your event.",
+
+  "events_amenity4_title": "Comfortable Accommodation",
+  "events_amenity4_text": "Guests can relax in our modern rooms after successful meetings and celebrations.",
+
+  "events_capacity_label": "Capacities",
+  "events_table_room": "Room",
+  "events_table_capacity": "Capacity",
+  "events_table_use": "Ideal For",
+
+  "events_capacity_note": "Our event team will gladly help customize the perfect setup for your occasion.",
+
+  "events_packages_label": "Event Services",
+
+  "events_package1_title": "Conferences & Meetings",
+  "events_package1_item1": "Modern conference technology",
+  "events_package1_item2": "Flexible seating arrangements",
+  "events_package1_item3": "Personalized event support",
+  "events_package1_item4": "Quiet working atmosphere",
+
+  "events_package2_title": "Weddings & Celebrations",
+  "events_package2_item1": "Elegant celebration spaces",
+  "events_package2_item2": "Flexible planning options",
+  "events_package2_item3": "Personalized service",
+  "events_package2_item4": "Memorable event experiences",
+
+  "events_cta_title": "Plan Your Event",
+  "events_cta_text": "Let our team help you create a successful conference, meeting or unforgettable celebration in Braunschweig.",
+  "events_cta_btn": "Contact Us"
+
+}
